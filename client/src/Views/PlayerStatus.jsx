@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
-import Nav2 from '../Nav2';
+import Nav2 from '../Components/Nav2';
 
 function PlayerStatus() {
 

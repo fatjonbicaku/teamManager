@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Nav from './Components/Nav';
-import ManagePlayers from './Components/Views/ManagePlayers';
-import PlayerStatus from './Components/Views/PlayerStatus';
+import ManagePlayers from './Views/ManagePlayers';
+import PlayerStatus from './Views/PlayerStatus';
 import CreatePlayer from './Components/CreatePlayer';
 
 

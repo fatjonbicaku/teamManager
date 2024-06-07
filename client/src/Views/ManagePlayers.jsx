@@ -1,5 +1,5 @@
-import ListPlayers from "../ListPlayers"
-import Nav1 from "../Nav1"
+import ListPlayers from "../Components/ListPlayers"
+import Nav1 from "../Components/Nav1"
 
 function ManagePlayers() {
   return (
